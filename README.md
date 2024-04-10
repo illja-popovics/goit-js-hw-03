@@ -1,1 +1,1 @@
-https://illja-popovics.github.io/goit-js-hw-02/
+https://illja-popovics.github.io/goit-js-hw-03/
